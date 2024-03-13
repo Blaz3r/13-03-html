@@ -168,3 +168,11 @@ color: blue;
 padding: 15px;
 border-radius: 25px;
 }
+.box-model{
+    margin: 20px;
+    background-color: #55a398;
+    padding: 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 400px;
+}
